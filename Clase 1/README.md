@@ -13,3 +13,6 @@ En esta primera clase exploramos cómo funcionan los chatbots clásicos, sin mod
 Podés correr el notebook en Google Colab para probar todo el código y modificarlo a gusto.
 
 > Este material forma parte de una serie de encuentros. El repo se irá actualizando con nuevas clases y recursos.
+
+📺 El video de la clase está disponible acá:  
+[https://www.youtube.com/watch?v=-Ky07Ao3XNk&t=78s](https://www.youtube.com/watch?v=-Ky07Ao3XNk&t=78s)
