@@ -16,3 +16,8 @@ El foco está puesto en el aprendizaje práctico, con código editable, ejemplos
 | Clase 1 - ChatBots clásicos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17e8MrftISnotg8QIV6wYXQ3QMsQjpmKX) | [Video](https://www.youtube.com/watch?v=-Ky07Ao3XNk&t=78s) |
 
 Este repositorio se irá actualizando con nuevos notebooks, materiales y enlaces a las grabaciones de cada clase.
+
+<p float="left">
+  <img src="https://github.com/julianyacachury/Workshop_ChatBot/blob/main/Logos/Logo%20Exdata.png" width="45%" />
+  <img src="https://github.com/julianyacachury/Workshop_ChatBot/blob/main/Logos/Logo%20datos%20pop.jpeg" width="45%" />
+</p>
