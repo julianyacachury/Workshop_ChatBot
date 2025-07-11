@@ -15,7 +15,7 @@ El foco está puesto en el aprendizaje práctico, con código editable, ejemplos
 |:--------------------|:--------------------:|:--------------------:|
 | Clase 1 - ChatBots clásicos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17e8MrftISnotg8QIV6wYXQ3QMsQjpmKX) | [Video](https://www.youtube.com/watch?v=-Ky07Ao3XNk&t=78s) |
 | Clase 2 - Modelos de agente | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Link del colab acá) | [Video](Link acá) |
-| Clase 3 - RAG | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Link del colab acá) | [Video](Link acá) |
+| Clase 3 - RAG | [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1n_yuyUxGpskGfpMtWWYWyLKADVMCaniR))](Link del colab acá) | [Video](Link acá) |
 
 Este repositorio se irá actualizando con nuevos notebooks, materiales y enlaces a las grabaciones de cada clase.
 
