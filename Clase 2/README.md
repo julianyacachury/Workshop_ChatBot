@@ -6,11 +6,13 @@ Este notebook de Google Colab permite analizar y visualizar información conteni
 
 El Colab trabaja con una carpeta que contenga archivos `.eml` previamente exportados. Se espera una estructura como:
 
+```
 /content/
 └── carpeta_emails/
 ├── email1.eml
 ├── email2.eml
 └── ...
+```
 
 ## 🚀 Funcionalidades principales
 
