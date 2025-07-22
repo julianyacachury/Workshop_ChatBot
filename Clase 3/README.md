@@ -16,5 +16,5 @@ Podés correr el notebook en Google Colab para probar los ejemplos, ver cómo fu
 > Este material forma parte de una serie de encuentros. El repo se irá actualizando con nuevas clases y recursos.
 
 📺 El video de la clase está disponible acá:  
-(La clase aún no está disponible en Youtube)
+https://www.youtube.com/watch?v=LQwugJ2abbw
 
